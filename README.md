@@ -51,7 +51,7 @@ After analyzing responses to the phishing simulation, I created a **short presen
 
 This follow-up effort supports Mastercard’s broader goal of improving team-specific cybersecurity awareness.
 
-📄 [Phishing Awareness Presentation (PDF)](Phishing Awareness Training.pdf)
+📄 [Phishing Awareness Training (PDF)](Phishing%20Awareness%20Training.pdf)
 
 ## 💡 Skills Gained
 
