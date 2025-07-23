@@ -48,6 +48,15 @@ This simulation reinforces phishing red flags like generic greetings, urgent lan
 - Designing cybersecurity training materials
 - Communication of security concepts to non-technical audiences
 
+### 🧠 Additional Concepts Learned
+
+As part of this simulation, I also learned the basics of using HTML for crafting phishing emails, particularly how to embed hyperlinks using anchor tags.
+
+**Example of basic HTML hyperlink syntax:**
+
+```html
+<a href="https://example.com">Click here</a>
+
 ## 📎 About the Program
 
 - Hosted by: Mastercard (via Forage)
