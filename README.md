@@ -1,5 +1,7 @@
 # Mastercard Cybersecurity Virtual Experience Program
 
+#cybersecurity, #virtual-experience, #forage, #phishing
+
 Welcome to my completed project for Mastercard’s Cybersecurity Virtual Experience, hosted through the Forage platform.
 
 ## 🚀 Program Overview
