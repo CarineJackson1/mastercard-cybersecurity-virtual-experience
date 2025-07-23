@@ -1,5 +1,3 @@
-# mastercard-cybersecurity-virtual-experience
-
 # Mastercard Cybersecurity Virtual Experience Program
 
 Welcome to my completed project for Mastercard’s Cybersecurity Virtual Experience, hosted through the Forage platform.
