@@ -68,4 +68,4 @@ As part of this simulation, I also learned the basics of using HTML for crafting
 This experience solidified that cyber threats come in many different forms, and that awareness and communication are key tools in defending against them. I learned to think critically like a security professional, considering both the technical and human aspects of cybersecurity.
 
 🔗 Links
-• Mastercard Cybersecurity Virtual Experience Program (Forage)
+• - [Mastercard Cybersecurity Virtual Experience Program (Forage)](https://www.theforage.com/) 
