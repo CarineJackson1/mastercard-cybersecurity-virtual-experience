@@ -40,6 +40,17 @@ Below is the phishing email simulation I created as part of the awareness traini
 
 This simulation reinforces phishing red flags like generic greetings, urgent language, and suspicious links.
 
+### 🎤 Awareness Training Presentation
+
+After analyzing responses to the phishing simulation, I created a **short presentation (3–5 slides)** aimed at the **two teams that appeared most susceptible**. This internal training resource was designed to:
+
+- Highlight the red flags from the simulation
+- Explain the risks of phishing attacks
+- Offer tips for identifying suspicious emails
+- Provide actionable steps for reporting incidents
+
+This follow-up effort supports Mastercard’s broader goal of improving team-specific cybersecurity awareness.
+
 ## 💡 Skills Gained
 
 - Cybersecurity fundamentals  
