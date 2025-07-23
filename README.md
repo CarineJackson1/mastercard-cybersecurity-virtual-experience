@@ -12,6 +12,34 @@ As part of the NY CEO Jobs Council, Mastercard is dedicated to empowering youth 
 
 I was tasked with helping the Security Awareness team design a **phishing email simulation**. This project emphasized how social engineering is used in cyberattacks and how awareness campaigns can strengthen an organization’s security posture.
 
+### 📨 Phishing Simulation Email (Sample)
+
+Below is the phishing email simulation I created as part of the awareness training initiative. It is designed to mimic a realistic social engineering attack to help users recognize and report phishing attempts.
+
+---
+
+**From:** it-support@mastercard-alerts.com  
+**To:** employee@email.com  
+**Subject:** Security Alert: Unusual Sign-In Attempt Detected!
+
+**Body:**
+
+> Dear [Employee Name],  
+>  
+> We have detected an unusual attempt to sign in to your corporate account from an unrecognized device.  
+>  
+> To ensure the security of your account, we've restricted access temporarily. Please verify your identity within the next 60 minutes using the secure link below:  
+>  
+> [Reset Password](https://en.wikipedia.org/wiki/Phishing)  
+>  
+> Regards,  
+> IT Security Operations Team  
+> Mastercard Inc.
+
+---
+
+This simulation reinforces phishing red flags like generic greetings, urgent language, and suspicious links.
+
 ### 💡 Skills Gained
 
 - Cybersecurity fundamentals
